@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lion School Application</string>
+    <string name="lion_school">Lion School</string>
+    <string name="lion_school_break_line">Lion\nSchool</string>
+    <string name="title_activity_choose_course">ChooseCourseActivity</string>
+    <string name="choose">Choose a</string>
+    <string name="course">course</string>
+    <string name="to_manage">to manage</string>
+    <string name="click_here">Click here</string>
+    <string name="select_course">Select a course</string>
+    <string name="title_activity_course">CourseActivity</string>
+    <string name="title_activity_students">StudentsActivity</string>
+    <string name="name">Lion School</string>
+    <string name="since">Since 2023</string>
+    <string name="transforming">Transforming learning.</string>
+    <string name="started">Get Started</string>
+    <string name="Logo">Lion School</string>
+    <string name="cursos">Courses:</string>
+    <string name="title_activity_alunos">AlunosActivity</string>
+    <string name="title_activity_aluno">AlunoActivity</string>
+    <string name="title_activity_initial">InitialActivity</string>
+</resources>
